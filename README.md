@@ -4,6 +4,8 @@
 
 入门,kotlin
 
+完整见链接 http://www.jianshu.com/p/6e288464a968
+
 
  因为公司的新技术调研 自己挑了Kotlin 然后就去看了下Kotlin 才发现真的是自己找坑跳啊
  
